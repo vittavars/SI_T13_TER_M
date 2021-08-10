@@ -15,25 +15,12 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 
 ## Preparação do ambiente de desenvolvimento (Flutter + Android)
 * [Opção 1](https://balta.io/blog/flutter-instalacao-configuracao-android-windows) - Tutorial modo **texto**
-* [Opção 2](https://www.youtube.com/watch?v=yuyoorvL1Y4) - Tutorial em **vídeo**
+* [Opção 2](https://medium.com/flutter-comunidade-br/instalando-e-configurando-flutter-no-windows-cae74711df1e#:~:text=Instala%C3%A7%C3%A3o%20do%20Android%20SDK&text=Nesta%20tela%20na%20parte%20de,Packages%20perto%20do%20bot%C3%A3o%20OK) - Tutorial em modo **texto**
+* [Opção 3](https://www.youtube.com/watch?v=yuyoorvL1Y4) - Tutorial em **vídeo**
 
 ## Repositório de Códigos (Github)
-* [Tutorial](https://github.com/geracaoti/comandos-git)
+* [Tutorial](https://github.com/geracaoti/comandos-git) - Tutorial sobre utilização do Git com o Github. 
   
 ## Links de apoio da disciplina
 + [FlutLab](https://flutlab.io/editor) - Plataforma colaborativa de programação (online)
 + [Instalação do Java EE](https://www.oracle.com/java/technologies/javaee-8-sdk-downloads.html) - Pacote necessário para desenvolvimento de aplicações para web com Java - Java Enterprise Edition.
-+ [Android Studio](https://developer.android.com/studio/install?hl=pt-br) - Download e instalação do Android Studio.
-+ [Genymotion Free](https://www.genymotion.com/fun-zone/) - Alternativa ao emuldaor do Android Studio
-+ [Habilitar Depurador no *Smartphone*](https://developer.android.com/training/basics/firstapp/running-app?hl=pt-br) - Executar os programas Android desenvolvidos no Android Studio
-+ [Otimizar o Android Studio](https://www.thiengo.com.br/android-studio-instalacao-configuracao-e-otimizacao) - Dicas de como melhorar o desempenho do Android Studio em Equipamentos Antigos.
-+ [Curso Online](https://edsonmsouza.teachable.com/) - Minicurso de Android Studio em vídeos ministrados por mim.
-+ [Youtube](https://www.youtube.com/edsonmsouza) - Tutoriais de Android Studio e outras linguagens de programação
-
-## Professor
-
-### Edson Melo de Souza
-+ e-mail: [prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)
-+ Currículo acadêmico: [*Lattes*](http://lattes.cnpq.br/2641658716558510)
-+ LinkedIn: [souzaem](https://www.linkedin.com/in/souzaem/)
-+ Instagram: [@edsouzowski](https://www.instagram.com/edsouzowski/)
