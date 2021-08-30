@@ -32,7 +32,7 @@ Baixar e extrair a SDK normalmente. Colocaá-la em um local seguro como, por exe
 
 No Windows abrir as variáveis de ambiente (digitar na busca "Variáveis de Ambiente" OU Teclar "*Windows*" + "*Pause Break*", clicar em "Configurações avançadas do sistema).
 
-Editar a variável "Path" do quadro do usuário (quadro de cima) e acrecentar o caminho de onde você extraiu o Flutter + a pasta ``bin``.
+Editar a variável "Path" do quadro do usuário (quadro de cima) e acrecentar o caminho de onde você extraiu o Flutter ``+`` a pasta ``\bin``. Exemplo: ``c:\flutter\bin``
 
 ## Repositório de Códigos (Github)
 * [Tutorial](https://github.com/geracaoti/comandos-git) - Tutorial sobre utilização do Git com o Github.
