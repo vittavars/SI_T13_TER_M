@@ -13,10 +13,27 @@
 ## Descrição
 Este material é uma iniciativa independente para auxiliar os alunos, visando facilitar o acesso e o acompanhamento das atividades ministradas via **Google Meet**. Portanto, **não se caracteriza como material oficial da instituição.** Todo o desenvolvimento de códigos e/ou materiais apresentados via **Google Meet** serão disponibilizados imediatamente após o término das aulas.
 
-## Preparação do ambiente de desenvolvimento (Flutter + Android)
-* [Opção 1](https://balta.io/blog/flutter-instalacao-configuracao-android-windows) - Tutorial modo **texto**
-* [Opção 2](https://medium.com/flutter-comunidade-br/instalando-e-configurando-flutter-no-windows-cae74711df1e#:~:text=Instala%C3%A7%C3%A3o%20do%20Android%20SDK&text=Nesta%20tela%20na%20parte%20de,Packages%20perto%20do%20bot%C3%A3o%20OK) - Tutorial em modo **texto**
-* [Opção 3](https://www.youtube.com/watch?v=yuyoorvL1Y4) - Tutorial em **vídeo**
+## Preparação do ambiente
+
+A preparação do ambiente de desenvolvimento é bastante simples, mas requer bastante cuidado e atenção aos detalhes.
+
+O site oficial do flutter é [https://flutter.dev/](https://flutter.dev/) e no link "DOCS", em seguida "Get Started" você consegue verificar todo passo-a-passo para a preparação do ambiente de forma oficial e atualizada.
+
+
+### 1º Passo - Instalação do Flutter SDK
+
+Se utiliza **Windows** como Sistema Operacional, clique [NESTE LINK](https://flutter.dev/docs/get-started/install/windows) para acessar a página de download da SDK. Faça o download normalmente.
+
+Se utiliza **MacOS** como Sistema Operacional, clique [NESTE LINK](https://flutter.dev/docs/get-started/install/macos) para acessar a página de download da SDK. Faça o download normalmente.
+
+Se utiliza **Linux** como Sistema Operacional, clique [NESTE LINK](https://flutter.dev/docs/get-started/install/linux) para acessar a página de download da SDK. Faça o download normalmente.
+
+Baixar e extrair a SDK normalmente. Colocaá-la em um local seguro como, por exemplo, c:\\flutter\\sdk (para usuários de windows) ou na home do usuário para usuários Linux e Mac.
+### 2º Passo - Acertar o PATH do sistema
+
+No windows abrir as variáveis de ambiente (digitar na busca "Variáveis de Ambiente" OU Teclar "Windows" + "Pause Break", clicar em "Configurações avancádas do sistema).
+
+Editar a variável "Path" do quadro do usuário (quadro de cima) e acrecentar o caminho de onde você extraiu o Flutter + a pasta bin.
 
 ## Repositório de Códigos (Github)
 * [Tutorial](https://github.com/geracaoti/comandos-git) - Tutorial sobre utilização do Git com o Github. 
