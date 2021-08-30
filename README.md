@@ -17,8 +17,7 @@ Este material é uma iniciativa independente para auxiliar os alunos, visando fa
 
 A preparação do ambiente de desenvolvimento é bastante simples, mas requer bastante cuidado e atenção aos detalhes.
 
-O site oficial do flutter é [https://flutter.dev/](https://flutter.dev/) e no link "DOCS", em seguida "Get Started" você consegue verificar todo passo-a-passo para a preparação do ambiente de forma oficial e atualizada.
-
+O site oficial do Flutter é [https://flutter.dev/](https://flutter.dev/) e no link "DOCS", em seguida "*Get Started*" você consegue verificar todo passo-a-passo para a preparação do ambiente de forma oficial e atualizada.
 
 ### 1º Passo - Instalação do Flutter SDK
 
@@ -31,12 +30,12 @@ Se utiliza **Linux** como Sistema Operacional, clique [NESTE LINK](https://flutt
 Baixar e extrair a SDK normalmente. Colocaá-la em um local seguro como, por exemplo, c:\\flutter\\sdk (para usuários de windows) ou na home do usuário para usuários Linux e Mac.
 ### 2º Passo - Acertar o PATH do sistema
 
-No windows abrir as variáveis de ambiente (digitar na busca "Variáveis de Ambiente" OU Teclar "Windows" + "Pause Break", clicar em "Configurações avancádas do sistema).
+No Windows abrir as variáveis de ambiente (digitar na busca "Variáveis de Ambiente" OU Teclar "*Windows*" + "*Pause Break*", clicar em "Configurações avançadas do sistema).
 
-Editar a variável "Path" do quadro do usuário (quadro de cima) e acrecentar o caminho de onde você extraiu o Flutter + a pasta bin.
+Editar a variável "Path" do quadro do usuário (quadro de cima) e acrecentar o caminho de onde você extraiu o Flutter + a pasta ``bin``.
 
 ## Repositório de Códigos (Github)
-* [Tutorial](https://github.com/geracaoti/comandos-git) - Tutorial sobre utilização do Git com o Github. 
+* [Tutorial](https://github.com/geracaoti/comandos-git) - Tutorial sobre utilização do Git com o Github.
   
 ## Links de apoio da disciplina
 + [FlutLab](https://flutlab.io/editor) - Plataforma colaborativa de programação (online)
