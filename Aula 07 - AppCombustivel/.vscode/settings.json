@@ -1,0 +1,30 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "sql486.main-hosting.eu",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "UniBonus",
+            "database": "u388787754_uni9bonus",
+            "username": "u388787754_uni9bonus",
+            "password": "#*TioPatinhas2020#*"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "34.121.73.71",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "google",
+            "database": "ava_teste",
+            "username": "root",
+            "password": ""
+        }
+    ]
+}
